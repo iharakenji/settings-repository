@@ -838,6 +838,17 @@
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/deliver-1.14.2/lib" />
       </SOURCES>
     </library>
+    <library name="deliver (v1.14.4, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/deliver-1.14.4/bin" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/deliver-1.14.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/deliver-1.14.4/bin" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/deliver-1.14.4/lib" />
+      </SOURCES>
+    </library>
     <library name="domain_name (v0.5.20160826, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/domain_name-0.5.20160826/lib" />
@@ -1049,6 +1060,17 @@
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fastlane-1.105.2/lib" />
       </SOURCES>
     </library>
+    <library name="fastlane (v1.106.1, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fastlane-1.106.1/bin" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fastlane-1.106.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fastlane-1.106.1/bin" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fastlane-1.106.1/lib" />
+      </SOURCES>
+    </library>
     <library name="fastlane_core (v0.52.1, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fastlane_core-0.52.1/lib" />
@@ -1056,6 +1078,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fastlane_core-0.52.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="fastlane_core (v0.53.0, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fastlane_core-0.53.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/fastlane_core-0.53.0/lib" />
       </SOURCES>
     </library>
     <library name="faye-websocket (v0.7.4, rbenv: 2.1.2) [gem]">
@@ -1220,6 +1251,17 @@
       <SOURCES>
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/gym-1.11.2/bin" />
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/gym-1.11.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="gym (v1.11.3, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/gym-1.11.3/bin" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/gym-1.11.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/gym-1.11.3/bin" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/gym-1.11.3/lib" />
       </SOURCES>
     </library>
     <library name="highline (v1.7.8, rbenv: 2.2.5) [gem]">
@@ -1915,6 +1957,17 @@
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/pilot-1.10.1/lib" />
       </SOURCES>
     </library>
+    <library name="pilot (v1.11.1, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/pilot-1.11.1/bin" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/pilot-1.11.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/pilot-1.11.1/bin" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/pilot-1.11.1/lib" />
+      </SOURCES>
+    </library>
     <library name="pkg-config (v1.1.7, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/pkg-config-1.1.7/lib" />
@@ -2538,6 +2591,17 @@
       <SOURCES>
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/spaceship-0.36.0/bin" />
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/spaceship-0.36.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="spaceship (v0.36.2, rbenv: 2.2.5) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/spaceship-0.36.2/bin" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/spaceship-0.36.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/spaceship-0.36.2/bin" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/spaceship-0.36.2/lib" />
       </SOURCES>
     </library>
     <library name="sprockets (v3.0.0.beta.2, rbenv: 2.1.2) [gem]">
