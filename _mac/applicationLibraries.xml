@@ -1894,6 +1894,7 @@
     </library>
     <library name="nokogiri (v1.6.8.1, rbenv: 2.2.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.8.1" />
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.8.1/bin" />
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.8.1/ext" />
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.8.1/lib" />
@@ -1903,6 +1904,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.8.1" />
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.8.1/bin" />
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.8.1/ext" />
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.8.1/lib" />
@@ -3001,11 +3003,13 @@
     </library>
     <library name="websocket-driver (v0.6.4, rbenv: 2.2.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/websocket-driver/0.6.4" />
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.4/ext" />
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.4/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/websocket-driver/0.6.4" />
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.4/ext" />
         <root url="file:///usr/local/opt/rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.4/lib" />
       </SOURCES>
