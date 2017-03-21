@@ -4,6 +4,7 @@
       <mapping ext="ejs" type="JavaScript" />
       <mapping pattern="htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="proxy" type="PLAIN_TEXT" />
+      <mapping pattern=".foreman" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
