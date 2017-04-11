@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="rdebug-ide" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="bundle" />
+      <option name="PARAMETERS" value="exec rdebug-ide --host 0.0.0.0 --port 1234 --dispatcher-port 26162 -- ./bin/bundle exec foreman start" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="db:migrate" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="bundle" />
+      <option name="PARAMETERS" value="exec rake db:migrate" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
