@@ -1014,6 +1014,27 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/bundler/gems/sass-rails-dfbcc6a53653/gemfiles" />
       </SOURCES>
     </library>
+    <library name="scala-sdk-2.12.2" type="Scala">
+      <properties>
+        <option name="languageLevel" value="Scala_2_12" />
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.12.2.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.2.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.2.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.12.2-sources.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/docs/scala-library-2.12.2-javadoc.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/docs/scala-reflect-2.12.2-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
     <library name="selenium-webdriver (v3.3.0, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/selenium-webdriver-3.3.0/lib" />
