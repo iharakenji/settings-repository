@@ -15,7 +15,9 @@
       <mapping pattern="csvfile" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="ci" type="PLAIN_TEXT" />
+      <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="jsp___u=15084023209063899674005628114057" type="PLAIN_TEXT" />
+      <mapping ext="staging" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="ruby" type="Ruby" />
       <mapping pattern=".gitignore_global" type="Git file" />
