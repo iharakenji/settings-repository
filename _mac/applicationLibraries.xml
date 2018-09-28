@@ -11,6 +11,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/activemodel-5.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord (v5.2.1, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/activerecord-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/activerecord-5.2.1/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/activerecord-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/activerecord-5.2.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/activerecord-5.2.1/examples" />
+      </excluded>
+    </library>
     <library name="activesupport (v5.2.1, rbenv: 2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -20,6 +36,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/activesupport-5.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="arel (v9.0.0, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/arel-9.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/arel-9.0.0/lib" />
       </SOURCES>
     </library>
     <library name="ast (v2.4.0, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -1331,6 +1358,17 @@
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="seed-fu (v2.3.9, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/seed-fu-2.3.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/seed-fu-2.3.9/lib" />
+      </SOURCES>
     </library>
     <library name="selenium-webdriver (v3.14.0, rbenv: 2.4.4) [gem]" type="rubylib">
       <properties>
