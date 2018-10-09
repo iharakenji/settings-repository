@@ -824,6 +824,37 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/suppressions" />
       </excluded>
     </library>
+    <library name="nokogiri (v1.8.5, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/patches" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/patches" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/suppressions" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/patches" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/suppressions" />
+      </excluded>
+    </library>
     <library name="ntlm-http (v0.1.1, rbenv: 2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1415,6 +1446,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.14.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.14.1, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.14.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.14.1/lib" />
       </SOURCES>
     </library>
     <library name="sqlite3 (v1.3.11, ruby-2.3.7-p456) [gem]" type="rubylib">
