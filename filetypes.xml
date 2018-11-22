@@ -23,6 +23,7 @@
       <mapping ext="jsp___u_1537872565682-83279333097130721" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="traineddata" type="PLAIN_TEXT" />
       <mapping ext="ruby" type="Ruby" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
